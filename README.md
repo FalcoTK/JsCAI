@@ -1,2 +1,1 @@
-# JsCAI
-Unofficial API for character.ai for JavaScript
+# WIP PROJECT PLEASE WAIT......
